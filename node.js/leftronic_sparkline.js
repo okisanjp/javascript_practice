@@ -1,6 +1,6 @@
 var request = require('request');
 var data = {
-	"accessKey": "YOUR_ACCESS_KEY",
+  "accessKey": "YOUR_ACCESS_KEY",
   "streamName": "test_sparkline",
   "point": [{
       "number": 40,
